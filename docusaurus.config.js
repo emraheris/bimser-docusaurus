@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Bimser Çözüm',
   tagline: 'Yazılımda Çözüm Ortağınız',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://vocal-profiterole-223a45.netlify.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
